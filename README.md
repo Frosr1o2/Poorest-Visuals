@@ -5,7 +5,10 @@
 
 # Building from source
 >linux
-
+# goto visuals path
 cd path/to/visuals
+# give right to start
 chmod +x ./gradlew
+# build from source
 ./gradlew clean build --no-deamon
+
