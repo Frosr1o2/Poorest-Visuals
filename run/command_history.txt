@@ -1,0 +1,11 @@
+/seed
+/time set
+/time set night
+/weather rain
+/time set night
+/time set 13000
+/weather rain
+/time set 100000
+/time set 130000000
+/list
+/weather rain

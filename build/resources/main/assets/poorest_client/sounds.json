@@ -1,0 +1,11 @@
+{
+  "bell": {"sounds": [{"name": "poorest_client:bell"}]},
+  "bubble": {"sounds": [{"name": "poorest_client:bubble"}]},
+  "bonk": {"sounds": [{"name": "poorest_client:bonk"}]},
+  "get": {"sounds": [{"name": "poorest_client:get"}]},
+  "magic_pok": {"sounds": [{"name": "poorest_client:magic_pok"}]},
+  "off": {"sounds": [{"name": "poorest_client:off"}]},
+  "on": {"sounds": [{"name": "poorest_client:on"}]},
+  "pok": {"sounds": [{"name": "poorest_client:pok"}]},
+  "custom": {"sounds": [{"name": "poorest_client:custom"}]}
+}
